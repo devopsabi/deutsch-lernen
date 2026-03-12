@@ -22,7 +22,7 @@ Stem + endings:
 
 Beispiel: machen (to do)
 
-| Subjekt| konjugation|
+| Subjekt| Verb|
 |:---|:---|
 | ich | mache |
 | du | machst |
@@ -43,7 +43,7 @@ Used often in writing (stories, reports, news).
 Regular verbs add **-te** to the stem.
 Example: machen
 
-| Subjekt | konjugation |
+| Subjekt | Verb |
 | :--- | :--- |
 | ich | machte |
 | du | machtest |
@@ -56,7 +56,7 @@ Example: machen
 Irregular verbs: stem changes and use different endings.
 Example: gehen (to go)
 
-| Subjekt | konjugation |
+| Subjekt | Verb |
 | :--- | :--- |
 | ich | ging |
 | du | gingst |

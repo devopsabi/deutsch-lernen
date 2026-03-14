@@ -186,8 +186,6 @@ title = 'Präsens Präteritum Perfekt Futur'
 | Ihr arbeitet Heute | Ihr arbeitetet Heute | Ihr habt Heute gearbeitet | Ihr werde Heute arbeiten
 | sie/Sie arbeiten Heute | sie/Sie arbeiteten Heute | sie/Sie haben Heute gearbeitet | sie/Sie werde Heute arbeiten
 
-
-
 | Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
 | :----- | :----- | ----- | :----- | :----- |
 | Ich arbeite im Büro | Ich arbeitete im Büro | Ich habe im Büro gearbeitet | Ich werde im Büro arbeiten ||
@@ -204,10 +202,23 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **lernen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich lerne Deutsch | Ich habe Deutsche gelernt | Ich werde Deutsche lernen | lernen = learn |
-| Ich lerne jeden Tag | Ich habe jeden Tag gelernt | Ich werde Jeden Tag lernen | |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich lerne Deutsch | Ich lernte Deutsch | Ich habe Deutsch gelernt | Ich werde Deutsch lernen | lernen = learn |
+| Du lernst | Du lerntest Deutsch | Du hast Deustch gelernt | Du werde Deutsch lernen | 
+| Er- lernt | Er- lernte Deustch | Er- hat Deustch gelernt | Er- werde Deutsch lernen |
+| Wir lernen | Wir lernten Deutsch | Wir haben Deutsch gelernt | Wir werde Deutsch lernen |
+| Ihr lerntc | Ihr lerntet Deutsch | Ihr habt Deutsch gelernt | Ihr werde Deutsch lernen |
+| sie/Sie lernen | sie/Sie lernten Deutsch | sie/Sie haben Deutsch gelernt | sie/Sie werde Deutch lernen |
+
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich lerne jeden Tag | Ich lernte jeden Tag  | Ich habe jeden Tag gelernt | Ich werde jeden Tag lernen | |
+| Du lernst jeden Tag | Du lerntest jeden Tag | Du hast jeden Tag gelernt | Du werde jeden Tag lernen |
+| Er- lernt jeden Tag.| Er- lernte jeden Tag | Er- hat jeden Tag gelernt | Er- werde jeden Tag lernen |
+| Wir lernen jeden Tag | Wir lernten jeden Tag | Wir haben jeden Tag gelernt | Wir werde jeden Tag lernen |
+| Ihr lernt jeden Tag. | Ihr lernte jeden Tag | Ihr habt jeden Tag gelernt | Ihr werde jeden Tag lernen |
+| sie/Sie lernen jeden Tag. | sie/Sie lernen jeden Tag. | sie/Sie haben jeden Tage gelernt | sie/Sie werde jeden Tag lernen |
 
 11. sprechen
 
@@ -215,9 +226,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **sprechen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich spreche Deutsch. | Ich habe Deutsch gesprochen | Ich werde Deutsch sprechen | Sprechen = Speak |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich spreche Deutsch. | Ich sprach Deutsch | Ich habe Deutsch gesprochen | Ich werde Deutsch sprechen | Sprechen = Speak |
+| Du sprichst Deustch  | Du spachst Deutsch | Du hast Deutsch gesprochen | Du werde Deutsch sprechen |
+| Er- spricht Deustch  | Er- sprach Deustch | Er- hat Deutsch gesprochen | Er- werde Deutsch sprechen|
+| Wir sprechen Deutsch | Wir sprachen Deutsch | Wir haben Deutsch gesprochen | Wir werde Deutsch sprechen |
+| Ihr sprecht Deutsch  | Ihr spracht Deutsch | Ihr habt Deustch gesprochen | Ihr werde Deustch sprechen |
+| sie/Sie sprechen Deustch | sie/Sie spcrachen Deutshch | sie/Sie haben Deustch gesprochen  | sie /Sie werde Deustch sprechen |
 
 12. essen
 
@@ -225,9 +241,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **essen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich esse Brot | Ich habe Brot gessen | Ich werder Brot essen | Essen - Eat|
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich esse Brot | Ich aß |  Ich habe Brot gessen | Ich werder Brot essen | Essen - Eat|
+| Du isst Brot | Du aßest | Du hast Brot gessen | Du werde Brot essen |
+| Er- isst Brot | Er- aß | Er- hat Brot gessen | Er- werde Brot essen |
+| Wir essen Brot | Wir aßen | Wir haben Brot gessen | Wir werde Brot essen |
+| Ihr esst Brot | Ihr aßt | Ihr habt Brot gessen | Ihr werde Brot essen |
+| sie/Sie essen Brot | sie/Sie aßen | sie/Sie haben Brot gessen | sie/Sie werde Brot essen |
 
 13. Trinken
 
@@ -235,10 +256,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **trinken** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich trinke Wasser. | Ich habe Wasser getrunken | Ich werde Wasser trinken | Trinken = Drink |
-
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich trinke Wasser. | Ich trank Wasser. |   Ich habe Wasser getrunken | Ich werde Wasser trinken | Trinken = Drink |
+| Du trinkst Wasser. | Du trankst Wasser. | Du hast Wasser getrunken | Du werde Wasser trinken |
+| Er- trinkt Wasser. | Er- trank Wasser. | Er- hat Wasser getrunken | Er- werde Wasser trinken |
+| Wirn trinken Wasser. | Wir tranken Wasser. | Wir haben Wasser getrunken | Wir werde Wasser trinken |
+| Ihr trinkt Wasser. | Ihr trankt Wasser. | Ihr habt Wasser getrunken  | Ihr werde Wasser trinken |
+| sie/Sie trinken Wasser. | sie/Sie tranken Wasser. | sie/Sie haben Wasser getrunken | sie/Sie werde Wasser trinken |
 
 14. wohnen
 
@@ -246,10 +271,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **wohnen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich wohne in Karlsruhe | Ich habe in Karlsruhe gewohnt | Ich werde in Karlsruhe wohnen | wohnen = Live/Reside |
-
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich wohne in Karlsruhe | Ich wohnte in Karlsruhe | Ich habe in Karlsruhe gewohnt | Ich werde in Karlsruhe wohnen | wohnen = Live/Reside |
+| Du wohnst in Karlsruhe | Du wohntest in Karlsruhe | Du hast in Karlsruhe gewohnt | Du werde in Karlsruhe wohnen |
+| Er- wohnt in Karlsruhe | Er- wohnte in Karlsruhe | Er- hat in Karlsruhe gewohnt  | Er- werde in Karlsruhe wohnen |
+| Wir wohnen in Karlsruhe | Wir wohnten in Karlsruhe | Wir haben in Karlsruhe gewohnt | Wir werde in Karlsruhe wohnen |
+| Ihr wohnt in Karlsruhe | Ihr wohntet in Karlsruhe | Ihr habt in Karlsruhe gewohnt | Ihr werde in Karlsruhe wohnen |
+| sie/Sie wohnen in Karlsruhe | sie/Sie wohnten in Karlsruhe | sie/Sie haben in Karlsruhe gewohnt | sie/Sie werde in Karlsruhe wohnen |
 
 15. Fahren
 
@@ -257,9 +286,15 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **fahren** | **sein** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich fahre zur Arbeit | Ich bin zur Arbeit gefahren | Ich werde zur Arbeit farhren | fahre = Drive |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich fahre zur Arbeit | Ich fuhr zur Arbeit  | Ich bin zur Arbeit gefahren | Ich werde zur Arbeit fahren | fahre = Drive |
+| Du fährst zur Arbeit | Du fuhrst zur Arbeit | Du bist zur Arbeit gefahren | Du werde zur Arbeit fahren |
+| Er- fährt zur Arbeit | Er- fuhr zur Arbeit | Er- ist zur Arbeit gefahren | Er- werde zur Arbeit fahren |
+| Wir fahren zur Arbeit | Wir fuhren zur Arbeit | Wir sind zur Arbeit gefahren | Wir werde zur Arbeit fahren |
+| Ihr fahrt zur Arbeit | Ihr fuhrt zur Arbeit | Ihr seid zur Arbeit gefahren  | Ihr werde zur Arbeit fahren |
+| sie/Sie fahren zur Arbeit | sie/Sie fuhren zur Arbeit | sie/Sie sind zur Arbeit gefahren  | sie/Sie werde zur Arbeit fahren |
+
 
 16. Bleiben
 

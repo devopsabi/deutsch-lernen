@@ -13,7 +13,7 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **sein** | **sein** |
 
-| Präsens |Präteritum | Perfekt | Futur 1: | Notes in English |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
 | :----- | :----- | :----- | ----- | :----- |
 | Ich bin müde | Ich war müde | Ich bin müde gewesen | Ich werde müde sein | gewesen = Been, müde = Tired |
 | Du bist müde |  Du warst müde |Du bist müde gewesen | Du werde müde sein ||
@@ -28,7 +28,7 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **haben** | **haben** |
 
-| Präsens |Präteritum | Perfekt | Futur 1: | Notes in English |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
 | :----- | :----- |:----- | ----- | :----- |
 | Ich habe Zeit | Ich hatte Zeit | Ich habe Zeit gehabt | Ich werde Zeit haben | haben = have,  Zeit = Time |
 | Du hast Zeit | Du hasttest Zeit | Du hast Zeit gehabt | Du werde Zeit haben |
@@ -43,7 +43,7 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **gehen** | **sein** |
 
-| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| Präsens | Präteritum |Perfekt | Futur 1: | Notes in English |
 | :----- | :----- | :----- | ----- | :----- |
 | Ich gehe nach Hause | Ich ging nach Hause  | Ich bin nach Hause gegangen | Ich werde nach Hause gehen | gehen = go, sein = be | 
 | Du gehst nach Hause | Du gingst nach Hause | Du bist nach Hause gegangen | Du werde nach Hause gehen | |
@@ -58,7 +58,7 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **kommen** | **sein** |
 
-| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| Präsens | Präteritum |Perfekt | Futur 1: | Notes in English |
 | :----- | :----- | :----- | ----- | :----- |
 | Ich komme heute | Ich kam heute  | Ich bin heute gekommen | Ich werde heute kommen | Kommen = Come , Heute = Today |
 | Du kommst heute | Du kamst heute | Du bist heute gekommen | Du werde heute kommen |
@@ -73,7 +73,7 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **machen** | **haben** |
 
-| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| Präsens | Präteritum |Perfekt | Futur 1: | Notes in English |
 | :----- | :----- | :----- | ----- | :----- |
 | Ich mache meine Arbeit | Ich machte meine Arbeit | Ich habe meine Arbeit gemacht | Ich werde meine Arbeit machen | I'm doing my job, Arbeit = Job, machen = make |
 | Du machst meine Arbeit | Du machtest meine Arbeit | Du hast meine Arbeit gemacht | Du werde meine Arbeit machen |
@@ -82,9 +82,15 @@ title = 'Präsens Präteritum Perfekt Futur'
 | Ihr macht meine Arbeit | Ihr machtet meine Arbeit | Ihr habt meine Arbeit gemacht | Ihr werde meine Arbeit gemacht |
 | sie/Sie machen meine Arbeit | sie/Sie machten meine Arbeit | sie/Sie haben meine Arbeit gemacht | sie/Sie werde meine Arbeit gemacht |
 
-| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| Präsens | Präteritum |Perfekt | Futur 1: | Notes in English |
 | :----- | :----- | :----- | ----- | :----- |
-| Ich mache eine Pause | Ich habe eine Pause gemacht | Ich werde eine Pause machen | |
+| Ich mache eine Pause | Ich machte eine Pause | Ich habe eine Pause gemacht | Ich werde eine Pause machen | |
+| Du machst eine Pause | Du machtest eine Pause | Du hast eine Pause gemacht | Du werde eine Pause machen  | |
+| er/es/sie macht eine Pause | er/es/sie machte eine Pause | er/es/sie hat eine Pause gemacht | er/es/sie werde eine Pause machen | 
+| Wir machen eine Pause | Wir machten eine Pause | Wir haben eine Pause gemacht | Wir werde eine Pause machen |
+| Ihr macht eine Pause | Ihr machtet eine Pause | Ihr habt eine Pause gemacht | Ihr werde eine Pause machen |
+| sie/Sie machen eine Pause | sie/Sie machten eine Pause | sie/Sie haben eine Pause gemacht | Ihr werde eine Pause machen |
+
 
 6. sagen
 
@@ -92,9 +98,15 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **sagen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich sage die Wahrheit | Ich habe die Wahrheit gesagt | Ich werde die Wahrheit sagen | Wahrheit = Truth, Sagen = Say |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
+| Ich sage die Wahrheit | Ich sagte die Wahrheit  | Ich habe die Wahrheit gesagt | Ich werde die Wahrheit sagen | Wahrheit = Truth, Sagen = Say |
+| Du sagst die Wahrheit | Du sagtest die Wahrheit | Du hast die Wahrheit gesagt | Du werde die Wahrheit sagen | 
+| er/es/sie sagt die Wahrheit | er/es/sie sagte die Wharheit | er/es/siei hat die Wahrheit gesagt | er/es/sie werde die Wahrheit sagen |
+| Wir sagen die Wahrheit | Wir sagten die Wahrheit | Wir haben die Wahrheit gesagt | Wir werde die Wahrheit sagen |
+| Ihr sagt die Wahrheit | Ihr sagtet die Wahrheit | Ihr habt die Wahrheit gesagt | Ihr werde die Wharheit sagen |
+| sie/Sie sagen die Wahrheit | sie/Sie sagten die Wahrheit | sie/Sie haben Wahreheit gesagt | sie/Sie werde die Wharheit sagen |
+
 
 
 7. sehen 
@@ -103,9 +115,15 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **sehen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich sehe dich | Ich habe dich gesehen | Ich werde dich sehen | sehen = see |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
+| Ich sehe dich | ich sah dich | Ich habe dich gesehen | Ich werde dich sehen | sehen = see |
+| Du siehst dich | Du sahst dich | Du hast dich gesehen | Du werde dich sehen | 
+| er/es/sie sieht dich | er/es/sie sah dich | er/es/sie hat dich | er/es/sie werde dich sehen
+| Wir sehen | Wir sahen dich | Wir haben dich | Wir werde dich sehen
+| Ihr seht | Ihr saht | Ihr habt dich | Ihr werde dich sehen 
+| sie/Sie sehen | sie/Sie sahen dich | sie/Sie haben dich | sie/Sie werde dich sehen
+
 
 8. geben
 
@@ -113,9 +131,15 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **geben** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich gebe dir Geld | Ich habe dir Geld gegeben | ich werde dir Geld geben | Geld = Money , geben = give |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English | 
+| :----- | :----- | :----- | ----- | :----- |
+| Ich gebe dir Geld | Ich gab dir Geld | Ich habe dir Geld gegeben | Ich werde dir Geld geben | Geld = Money , geben = give |
+| Du gibst dir Geld | Du gabst dir Geld | Du hast dir Geld gegeben | Du werde dir geld geben |
+| er/es/sie gibt dir Geld | er/es/sie gab dir Geld | er/es/sie hat dir Geld gegeben | er/es/sie werde dir Geld geben |
+| Wir geben dir Geld | Wir gaben dir Geld | Wir haben dir Geld gegeben | Wir werde dir Geld geben |
+| Ihr gebt dir Geld | Ihr gabt dir Geld | Ihr hat dir Geld gegeben | Ihr werde dir Geld geben |
+| sie/Sie geben dir Geld | sie/Sie gaben dir Geld | sie/Sie haben dir Geld gegeben  | sie/Sie werde dir Geld geben |
+
 
 7. nehmen
 
@@ -123,9 +147,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **nehmen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich nehme den Bus | Ich habe den Bus genommen | Ich werde den Bus | nehmen = Take |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
+| Ich nehme den Bus | Ich nahm den Bus  | Ich habe den Bus genommen | Ich werde den Bus | nehmen = Take |
+| Du nimmst den Bus | Du nahmst den Bus | Du hast den Bus genommen | Du werde den Bus |
+| Er- nimmt den Bus | Er- nahm den Bus | Er- hat den Bus genomen | Er- werde den Bus |
+| Wir nehem den Bus | Wir nahmen den Bus | Wir haben den Bus genomen | Wir werde den Bus |
+| Ihr nehmt den Bus | Ihr nahmt den Bus | Ihr habt den Bus genomen  | Ihr werde den Bus |
+| sie/Sie nehem den Bus | sie/Sie nahmen den Bus | sie/Sie haben den Bus genomen | sie/Sie werde den Bus |
 
 8. finden
 
@@ -133,9 +162,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **finden** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich finde den Schlüssel | Ich habe den Schlüssel gefunden | Ich werde den Schlüssel finden | finden = find, Schlüssel = Key |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
+| Ich finde den Schlüssel | Ich fand den Schlüssel  |  Ich habe den Schlüssel gefunden | Ich werde den Schlüssel finden | finden = find, Schlüssel = Key |
+| Du findest den Schlüssel | Du fandest den Schlüssel | Du hast den Schlüssel gefunden | Du werde den Schlüssel finden |
+| Er- findet den Schlüssel | Er- fand den  Schlüssel | Er- hat den Schlüssel gefunden | Er- werde den Schlüssel finden |
+| Wir finden den Schlüssel | Wir fanden den Schlüssel | Wir haben den Schlüssel gefunden | Wir werde den Schlüssel finden |
+| Ihr findet den Schlüssel | Ihr fandet den Schlüssel | Ihr habt den Schlüssel gefunden | Ihr werde den Schlüssel finden |
+| sie/Sie finden den Schlüssel | sie/Sie fanden den Schlüssel | sie/Sie haben den Schlüssel gefunden | sie/Sie werde den Schlüssel finden |
 
 9. arbeiten 
 
@@ -143,10 +177,26 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **arbeiten** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich arbeite Heute | Ich habe heute gearbeitet | Ich werde heute arbeiten | arbeiten = work |
-| Ich arbeite im Büro | Ich habe im Büro gearbeitet | Ich werde im Büro arbeiten ||
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich arbeite Heute | Ich arbeitete Heute  | Ich habe Heute gearbeitet | Ich werde Heute arbeiten | arbeiten = work |
+| Du arbeitest Heute | Du arbeitetest Heute | Du hast Heute gearbeitet | Du werde Heute arbeiten 
+| Er- arbeitet Heute | Er- arbeitete Heute | Er- hat Heute gearbeitet  | Er- werde Heute arbeiten 
+| Wir arbeiten Heute | Wir arbeiteten Heute | Wir haben Heute gearbeitet | Wir werde Heute arbeiten
+| Ihr arbeitet Heute | Ihr arbeitetet Heute | Ihr habt Heute gearbeitet | Ihr werde Heute arbeiten
+| sie/Sie arbeiten Heute | sie/Sie arbeiteten Heute | sie/Sie haben Heute gearbeitet | sie/Sie werde Heute arbeiten
+
+
+
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich arbeite im Büro | Ich arbeitete im Büro | Ich habe im Büro gearbeitet | Ich werde im Büro arbeiten ||
+| Du arbeitest im Büro | Du arbeitetest im Büro | Du hast im Büro gearbeitet | Du werde im Büro arbeiten |
+| Er- arbeitet im Büro | Er- arbeitete im Büro | Er- hat im Büro gearbeitet | Er- werde im Büro arbeiten |
+| Wir arbeiten im Büro | Wir arbeiteten im Büro | Wir haben im Büro gearbeitet | Wir werde im Büro arbeiten|
+| Ihr arbeitet im Büro | Ihr arbeitetet im Büro | Ihr habt im Büro gearbeitet | Ihr werde im Büro arbeiten |
+| sie/Sie arbeiten im Büro | si/Sie arbeiteten in Büro | sie/Sie haben im Büro gearbeitet  | sie/Sie werde im Büro arbeiten |
+
 
 10. lernen
 

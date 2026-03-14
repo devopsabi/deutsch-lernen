@@ -1,7 +1,7 @@
 +++
 date = '2026-03-04T18:45:10+01:00'
 draft = true
-title = 'Präsens Perfekt Futur'
+title = 'Präsens Präteritum Perfekt Futur'
 +++
 [Präsens Perfekt Futur](https://www.youtube.com/watch?v=_IMGkuJ0ax8)
 
@@ -43,9 +43,14 @@ title = 'Präsens Perfekt Futur'
 | :----- | :----- |
 | **gehen** | **sein** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich gehe nach Hause | Ich bin nach Hause gegangen | Ich werde nach Hause gehen | gehen = go, sein = be | 
+| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
+| Ich gehe nach Hause | Ich ging nach Hause  | Ich bin nach Hause gegangen | Ich werde nach Hause gehen | gehen = go, sein = be | 
+| Du gehst nach Hause | Du gingst nach Hause | Du bist nach Hause gegangen | Du werde nach Hause gehen | |
+| er/es/sie geht nach Hause | er/es/sie ging nach Hause | er/es/sie ist nach Hause gegangen | er/es/sie werde nach Hause gehen ||
+| Wir gehen nach Hause | Wir gingen nach Hause | Wir sind nach Hause gegangen | Wir werde nach hause gehen||
+| Ihr geht nach Hause | Ihr gingt nach Hause |  Ihr seid nach Hause gegangen | Ihr werde nach hause gehen ||
+| sie/Sie gehen nach Hause | sie/Sie gingen nach Hause | sie/Sie sind nach Hause gegangen | sie/Sie werde nach hause gehen ||
 
 4. kommen
 
@@ -53,9 +58,14 @@ title = 'Präsens Perfekt Futur'
 | :----- | :----- |
 | **kommen** | **sein** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich komme heute | Ich bin heute gekommen | Ich werde heute kommen | Kommen = Come , Heute = Today |
+| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
+| Ich komme heute | Ich kam heute  | Ich bin heute gekommen | Ich werde heute kommen | Kommen = Come , Heute = Today |
+| Du kommst heute | Du kamst heute | Du bist heute gekommen | Du werde heute kommen |
+| er/es/si kommt heute | er/es/sie kam heute | er/es/si ist heute gekommen | er/es/sie werde heute kommen |
+| Wir kommen heute | Wir kamen heute | Wir sind heute gekommen | Wir werde heute kommen |
+| Ihr kommt heute | Ihr kamt heute | Ihr seid heute gekommen | Ihr werde heute kommen | 
+| sie/Sie kommen heute | sie/Sie kamen heute | sie/Sie sind heute gekommen | sie/Sie werde heute kommen |
 
 5. machen
 
@@ -63,9 +73,17 @@ title = 'Präsens Perfekt Futur'
 | :----- | :----- |
 | **machen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich mache meine Arbeit | Ich habe meine Arbeit gemacht | Ich werde meine Arbeit machen | I'm doing my job, Arbeit = Job, machen = make |
+| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
+| Ich mache meine Arbeit | Ich machte meine Arbeit | Ich habe meine Arbeit gemacht | Ich werde meine Arbeit machen | I'm doing my job, Arbeit = Job, machen = make |
+| Du machst meine Arbeit | Du machtest meine Arbeit | Du hast meine Arbeit gemacht | Du werde meine Arbeit machen |
+| er/es/sie macht meine Arbeit | er/es/si machte meine Arbeit | er/es/sie hat meine Arbeit gemacht | er/es/sie werde meine Arbeit machen |
+| Wir machen meine Arbeit | Wir machten meine Arbeit | Wir haben meine Arbeit gemacht | Wir werde meine Arbeit gemacht |
+| Ihr macht meine Arbeit | Ihr machtet meine Arbeit | Ihr habt meine Arbeit gemacht | Ihr werde meine Arbeit gemacht |
+| sie/Sie machen meine Arbeit | sie/Sie machten meine Arbeit | sie/Sie haben meine Arbeit gemacht | sie/Sie werde meine Arbeit gemacht |
+
+| Präsens |Präteritum |Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | :----- | ----- | :----- |
 | Ich mache eine Pause | Ich habe eine Pause gemacht | Ich werde eine Pause machen | |
 
 6. sagen

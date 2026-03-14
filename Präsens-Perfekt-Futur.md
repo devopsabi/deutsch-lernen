@@ -302,10 +302,24 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **bleiben** | **sein** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich bleibe zu Hause | Ich bin zu hause geblieben | Ich werde zu Hause bleiben | bleiben = Remain / Stay |
-| Ich bleibe hier. | Ich bin hier geblieben | Ich werde hier bleiben | |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich bleibe zu Hause | Ich blieb zu Hause | Ich bin zu hause geblieben | Ich werde zu Hause bleiben | bleiben = Remain / Stay |
+| Du bleibst zu Hause | Du bliebst zu Hause | Du bist zu hause geblieben | Du werde zu hause bleiben |
+| Er- bleibt zu Hause | Er- blieb zu Hause | Er- ist zu hause geblieben | Er- werde zu hause bleiben |
+| Wir bleiben zu Hause | Wir blieben zu Hause | Wir sind zu hause geblieben | Wir werde zu hause bleiben |
+| Ihr bleibt zu Huase | Ihr bliebt zu Hause | Ihr seid zu hause geblieben | Ihr werde zu hause bleiben |
+| sie/Sie bleiben zu Hause | sie/Sie blieben zu Hause | sie/Sie sind zu hause  geblieben | sie/Sie werde zu hause bleiben |
+
+
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich bleibe hier. | Ich blieb hier. | Ich bin hier geblieben | Ich werde hier bleiben | |
+| Du bleibst hier | Du bliebst hier | Du bist hier geblieben | Du werde hier bleiben |
+| Er- bleibt hier | Er- blieb hier | Er- ist hier geblieben | Er- werde hier bleiben |
+| Wir bleiben hier | Wir blieben hier | Wir sind hier geblieben | Wir werde hier bleiben |
+| Ihr bleibt hier | Ihr bliebt hier | Ihr seid hier geblieben | Ihr werde hier blieben |
+| sie/Sie bleiben hier | sie/Sie blieben hier  | sie/Sie sind hier geblieben | sie/Sie werde hier blieben |
 
 17. Fragen
 

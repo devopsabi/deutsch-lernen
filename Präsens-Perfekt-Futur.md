@@ -327,10 +327,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **fragen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich frage den Lehrer | Ich habe den Lehrer gefragt | Ich werde den Lehrer fragen | Fragen = Questions |
-
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich frage den Lehrer | Ich fragte den Lehrer | Ich habe den Lehrer gefragt | Ich werde den Lehrer fragen | Fragen = Questions |
+| Du fragst den Lehrer | Du fragtest den Lehrer | Du hast den Lehrer gefragt | Du werde den Lehrer fragen |
+| Er- fragt den Lehrer | Er- fragte den Lehrer | Er- hat den Lehrer gefragt  | Er- werde den Lehrer fragen |
+| Wir fragen den Lehrer | Wir fragten den Lehrer | Wir haben den Lehrer gefragt | Wir werde den Lehrer fragen |
+| Ihr fragt den Lehrer | Ihr fragtet den Lehrer | Ihr habt den Lehrer gefragt | Ihr werde den Lehrer fragen |
+| sie/Sie fragen den Lehrer | sie/Sie fragten den Lehrer | sie/Sie haben den Lehrer gefragt | sie/Sie werde den Lehrer fragen |
 
 18. antworten 
 
@@ -338,9 +342,15 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **antworten** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich antworte schnell | Ich habe schnell geantwortet | Ich werde schnell antworten | antworten = Answers |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich antworte schnell | Ich antwortete schnell | Ich habe schnell geantwortet | Ich werde schnell antworten | antworten = Answers |
+| Du antwortest schnell | Du antwortetest schnell | Du hast schnell geantwortet | Du werde schnell antworten |
+| Er- antwortet schnell | Er- antwortete schnell | Er- hat schnell geantwortet | Er- werde schnell antworten |
+| Wir antworten schnell | Wir antworteten schnell | Wir haben schnell geantwortet | Wir werde schnell antworten |
+| Ihr antwortet schnell | Ihr antwortet schnell | Ihr habt schnell geantwortet | Ihr werde schnell antworten |
+| sie/Sie antworten schnell | sie/Sie antworteten schnell | sie/Sie haben schnell geantwortet | sie/Sie werde schnell antworten |
+
 
 19. kaufen
 
@@ -348,9 +358,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **kaufen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich kaufe Brot | Ich habe Brot gekauft | Ich werde Brot kaufen | Kaufen = Purchase |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich kaufe Brot | Ich kaufte Brot |Ich habe Brot gekauft | Ich werde Brot kaufen | Kaufen = Purchase |
+| Du kaufst Brot | Du kauftest Brot | Du hast Brot gekauft | Du werde Brot kaufen |
+| Er- kauft Brot | Er- kaufte Brot | Er- hat Brot gekauft | Er- werde Brot kaufen |
+| Wir kaufen Brot | Wir kauften Brot | Wir haben Brot gekauft | Wir werde Brot kaufen |
+| Ihr kauft Brot | Ihr kauftet Brot | Ihr habt Brot gekauft | Ihr werde Brot kaufen |
+| sie/Sie Kaufen Brot | sie/Sie Kauften Brot | sie/Sie haben Brot gekauft | sie/Sie werde Brot kaufen |
 
 20. helfen
 
@@ -358,9 +373,15 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **helfen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich helfe dir | Ich habe dir geholfen |  Ich werde dir helfen | helfen = help |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich helfe dir | Ich half dir | Ich habe dir geholfen |  Ich werde dir helfen | helfen = help |
+| Du hilfst dir | Du halfst dir | Du hast dir geholfen | Du werde dir helfen
+| Er- hilft dir | Er- half dir | Er hat dir geholfen | Er- werde dir helfen |
+| Wir helfen dir | Wir halfen dir | Wir haben dir geholfen | Wir werde dir helfen |
+| Ihr helft dir | Ihr halft dir | Ihr habt dir geholfen | Ihr werde dir helfen |
+| sie/Sie helfen dir | sie/Sie halfen dir | sie/Sie haben dir geholfen | sie/Sie Werde dir helfen |
+
 
 21. Hören
 
@@ -368,9 +389,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **hören** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich höre Musik. | Ich habe Musik gehört | Ich werde Musik hören | Hören = Hear , Listen to music |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich höre Musik. | Ich hörte Musik.  | Ich habe Musik gehört | Ich werde Musik hören | Hören = Hear , Listen to music |
+| Du hörst Musik. | Du hörtest Musik. | Du hast Musik gehört | Du werde Musik hören |
+| Er- hört Musik. | Er- hörte Musik   | Er- hat Musik gehört | Er- werde Musik hören |
+| Wir hören Musik | Wir hörten Musik. | Wir haben Musik gehört | Wir werde Musik hören |
+| Ihr hört Musik. | Ihr hörtet Musik. | Ihr habt Musik gehört | Ihr werde Musik hören |
+| sie/Sie hören Musik | sie/Sie hörten Musik | sie/Sie haben Musik gehört | sie/Sie werde Musik hören |
 
 22. Spielen
 
@@ -378,9 +404,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **Spielen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich spiele Fußball. | Ich habe Fußball gespeilt | Ich werde Fußball spielen | Spielen = Play | 
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich spiele Fußball. | Ich spielte Fußball | Ich habe Fußball gespeilt | Ich werde Fußball spielen | Spielen = Play |
+| Du spielst Fußball | Du spieltest Fußball | Du hast Fußball gespeilt | Du werde Fußball spielen |
+| Er- spielt Fußball | Er- spielte Fußball | Er- hat Fußball gespeilt | Er- werde Fußball spielen |
+| Wir spielen Fußball | Wir spielten Fußball | Wir haben Fußball gespeilt | Wir werde Fußball spielen |
+| Ihr spielt Fußball | Ihr spieltet Fußball | Ihr habt Fußball gespeilt | Ihr werde Fußball spielen |
+| sie/Sie spielen Fußball | sie/Sie spielten Fußball | sie/Sie haben Fußball gespeilt | sie/Sie werde Fußball spielen |
 
 23. Schlafen
 
@@ -388,9 +419,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **Schlafen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich schlafe gut. | Ich habe gut geschlafen | Ich werde gut schlafen | Schlafen = Sleep |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich schlafe gut. | Ich schlief gut | Ich habe gut geschlafen | Ich werde gut schlafen | Schlafen = Sleep |
+| Du schläfst gut | Du schliefst gut | Du hast gut geschlafen | Du werde gut schlafen |
+| Er- schläft gut | Er- schlief gut | Er- hast gut geschlafen | Er- werde gut schlafen |
+| Wir schlafen gut | Wir schliefen gut | Wir haben gut geschlafen | Wir werde gut schlafen |
+| Ihr schlaft gut | Ihr schlieft gut | Ihr habt gut geschlafen | Ihr werde gut schlafen |
+| sie/Sie schlafen gut | sie/Sie schliefen gut | sie/Sie haben gut geschlafen | sie/Sie werde gut schlafen |
 
 24. laufen
 
@@ -398,9 +434,14 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **laufen** | **sein** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich laufe schnell | Ich bin schnell gelaufen | Ich werde schnell laufen | laufen = Run |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich laufe schnell | Ich lief schnell | Ich bin schnell gelaufen | Ich werde schnell laufen | laufen = Run |
+| Du läufst schnell | Du liefst schnell | Du bist schnell gelaufen | Du werde schnell laufen |
+| Er- läuft schnell | Er- lief schnell | Er- ist schnell gelaufen | Er- werde schnell laufen |
+| Wir laufen schnell | Wir liefen schnell | Wir sind schnell gelaufen | Wir werde schnell laufen |
+| Ihr lauft schnell | Ihr lieft schnell | Ihr seid schnell gelaufen | Ihr werde schnell laufen |
+| sie/Sie laufen schnell | sie/Sie liefen schnell | sie/Sie sind schnell gelaufen | sie/Sie werde schnell laufen |
 
 25. bringen
 
@@ -408,97 +449,146 @@ title = 'Präsens Präteritum Perfekt Futur'
 | :----- | :----- |
 | **bringen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich bringe Wasser | Ich habe Wasser gebracht | Ich werde Wasser bringen | bringen = bring | 
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich bringe Wasser | Ich brachte Wasser | Ich habe Wasser gebracht | Ich werde Wasser bringen | bringen = bring | 
+| Du bringst Wasser | Du brachtest Wasser | Du hast Wasser gebracht | Du werde Wasser bringen |
+| Er- bringt Wasser | Er- brachte Wasser | Er- hat Wasser gebracht | Er- werde Wasser bringen |
+| Wir bringen Wasser | Wir brachten Wasser | Wir haben Wasser gebract | Wir werde Wasser bringen |
+| Ihr bringt Wasser | Ihr brachtet  Wasser | Ihr habt Wasser gebracht | Ihr werde Wasser bringen |
+| sie/Sie bringen Wasser | sie/Sie brachten Wasser | sie/Sie haben Wasser gebracht | sie/Sie werde Wasser bringen |
 
-25. öffnen
+26. öffnen
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **öffnen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich öffne die Tür. | Ich habe die Tür geöffnet | Ich werde dir Tür öffnen | öffnen = Open |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich öffne die Tür. | Ich öffnete die Tür | Ich habe die Tür geöffnet | Ich werde dir Tür öffnen | öffnen = Open |
+| Du öffnest die Tür | Du öffnetest die Tür | Du hast die Tür geöffnet | Die werde die Tür öffnen |
+| Er- öffnet die Tür | Er- öffnete die Tür | Er- hast die Tür geöffnet | Er- werde die Tür öffnen |
+| Wir öffnen die Tür | Wir öffneten die Tür | Wir haben die Tür geöffnet | Wir werde die Tür öffnen |
+| Ihr öffnet die Tür | Ihr öffnetet die Tür | Ihr habt die tur geoffnet | Ihr werde die Tür öffnen |
+| sie/Sie öffnen die Tür | sie/Sie öffneten die Tür | sie/Sie haben die Tür geöffnet | sie/Sie werde die Tür öffnen |
 
-26. Schließen 
+27. Schließen 
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **Schließen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich schließe das Fenster | Ich habe das Fenster geschlossen | Ich werde das Fenster schließen | Schließen = close |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich schließe das Fenster | Ich schloss das Fenster | Ich habe das Fenster geschlossen | Ich werde das Fenster schließen | Schließen = close |
+| Du schließt das Fenster | Du schlossest/schlosst das Fenster | Du hast das Fenster geschlossen | Du werde das fenster schließen |
+| Er- schließt das Fenster | Er- schloss das Fenster | Er- hat das Fenster geschlossen | Er- werde das Fenster schließen |
+| Wir schließen das Fenster | Wir schlossen das Fenster | Wir haben das Fenster geschlossen | Wir werde das Fenster schließen |
+| Ihr schließt das Fenster | Ihr schlosst das Fenster | Ihr habt das Fenster geschlossen | Ihr werde das Fenster schließen |
+| sie/Sie schließen das Fenster | sie/Sie schlossen das Fenster | sie/Sie haben das Fenster geschlossen | sie/Sie werde das Fenster scließen |
 
-27. beginnen
+28. beginnen
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **beginnen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich beginne jetzt. | Ich habe jetzt begonnen | Ich werde jetzt beginnen | jetzt = now, beginnen = begin/start |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich beginne jetzt. | Ich begann jetzt  | Ich habe jetzt begonnen | Ich werde jetzt beginnen | jetzt = now, beginnen = begin/start | 
+| Du beginnst jetzt. | Du begannst jetzt | Du hast jetzt begonnen | Du werde jetzt beginnen |
+| Er- beginnt jetzt. | Er- begann jetzt | Er- hat jetzt begonnen | Er- werde jetzt beginnen |
+| Wir beginnnen jetzt | Wir begannen jetzt | Wir haben jetzt begonnen | Wir werde jetzt beginnen |
+| Ihr beginnt jetzt | Ihr begannt jetzt | Ihr habt jetzt begonnen | Ihr werde jetzt beginnen |
+| sie/Sie beginnen jetzt | sie/Sie begannen jetzt | sie/Sie haben jetzt begonnen | sie/Sie werde jetzt beginnen|
 
-
-28. denken
+29. denken
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **denken** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich denke an dich | Ich habe an dich gedacht | Ich werde an dich denken | denken = think , Ich denke an dich |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich denke an dich | Ich dachte an dich |Ich habe an dich gedacht | Ich werde an dich denken | denken = think , Ich denke an dich |
+| Du denkst an dich | Du dachtest an dich | Du hast an dich gedacht | Du werde an dich denken |
+| Er- denkt an dich | Er dachte an dich | Er- hat an dich gedacht | Er- werde an dich denken |
+| Wir denken an dich | Wir dachten an dich | Wir haben an dich gedacht | Wir werde an dich denken |
+| Ihr denkt an dich | Ihr dachtet an dich | Ihr habt an dich gedacht | Ihr werde an dich denken |
+| sie/Sie denken an dich | sie/Sie dachten an dich | sie/Sie haben an dich gedacht | sie/Sie werde an dich denken |
 
-29. Versuchen
+30. Versuchen
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **versuchen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich versuche es. | Ich habe es versucht | Ich werde es versuchen | versuchen =  Attempt/try |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich versuche es. | Ich versuchte es | Ich habe es versucht | Ich werde es versuchen | versuchen =  Attempt/try |
+| Du versuchst es.| Du versuchtest es | Du hast es versucht | Du werde es versuchen |
+| Er- versucht es.| Er- versuchte es  | Er hat es versucht | Er werde es versuchen |
+| Wir versuchen es| Wir versuchten es | Wir haben es versucht | Wir werde es versuchen |
+| Ihr versucht es| Ihr versuchtet es | Ihr habt es versucht  | Ihr werde es versuchen |
+| sie/Sie versuchen es | sie/Sie versuchten es | sie/Sie haben es versucht  | sie/Sie werde es versuchen |
  
-30. Heißen
+31. Heißen
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **heißen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich heiße Anna. | Ich habe Anna geheißen | Ich werde Anna heißen | Heißen = be called |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich heiße Anna. | Ich hieß Anna | Ich habe Anna geheißen | Ich werde Anna heißen | Heißen = be called |
+| Du heiß Anna | Du hießest/hießt Anna | Du hast Anna geheißen | Du werde Anna heißen |
+| Er- heißt Anna | Er- hieß Anna | Er- hat Anna geheißen | Er- werde Anna heißen |
+| Wir heißen Anna | Wir hießen Anna | Wir haben Anna geheißen | Wir werde Anna heißen |
+| Ihr heißt Anna | Ihr hießt Anna | Ihr habt Anna geheißen | Ihr werde Anna heißen |
+| sie/Sie heißen Anna | sie/Sie hießen Anna | sie/Sie haben Anna geheißen | sie/Sie werde Anna heißen |
 
-31. Warten
+32. Warten
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **warten** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich warte hier. | Ich habe hier gewartet | Ich werde hier warten | Warten = wait |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich warte hier. | Ich wartete hier | Ich habe hier gewartet | Ich werde hier warten | Warten = wait |
+| Du wartest hier | Du wartetest hier | Du hast hier gewartet | Du werde hier warten |
+| Er- wartet hier | Er- Wartete hier | Er- hat hier gewartet | Er- werde hier warten |
+| Wir warten hier  | Wir warteten hier | Wir haben hier gewartet | Wir werde hier warten |
+| Ihr wartet hier | Ihr wartetet hier | Ihr habt hier gewartet | Ihr werde hier warten |
+| sie/Sie Warten hier | sie/Sie wartete hier | sie/Sie haben hier gewartet | sie/Sie werde hier warten |
 
-32. Leben
+33. Leben
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **leben** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich lebe in Deutschland | Ich habe in Deutschland gelebt | Ich werde in Deutscheland leben | lebe = live,  I live in Germany |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich lebe in Deutschland | Ich lebte in Deutschland | Ich habe in Deutschland gelebt | Ich werde in Deutschland leben | lebe = live,  I live in Germany |
+| Du lebst in Deustchland | Du lebtest in Deutschland | Du hast in Deutschland gelebt | Du were in Deutschland leben |
+| Er- lebt in Deutschland | Er- lebte in Deutschland | Er- hat in Deutschland gelebt | Er- werde in Deutschland leben |
+| Wir leben in Deutchland | Wir lebten in Deutschland | Wir haben in Deutschland gelebt | Wir werde in Deutschland leben |
+| Ihr lebt in Deutchland | Ihr lebtet in Deutschland | Ihr habt in Deustchland gelebt | Ihr werde in Deutschland leben |
+| sie/Sie leben in Deutschland | sie/Sie lebten in Deutschland | sie/Sie haben in Deustchland gelebt | sie/Sie werde in Deustchland leben |
 
-33. besuchen
+34. besuchen
 
 | Verb | Helfsverb im Perfekt |
 | :----- | :----- |
 | **besuchen** | **haben** |
 
-| Präsens | Perfekt | Futur 1: | Notes in English |
-| :----- | :----- | ----- | :----- |
-| Ich besuche meine Familie |  Ich habe meine Familie besucht | Ich werde meine Familie besuchen | besuchen = visit |
+| Präsens | Präteritum | Perfekt | Futur 1: | Notes in English |
+| :----- | :----- | ----- | :----- | :----- |
+| Ich besuche meine Familie | Ich besuchte meine Familie |  Ich habe meine Familie besucht | Ich werde meine Familie besuchen | besuchen = visit |
+| Du besuchst deine Familie | Du besuchtest deine Familie | Du hast deine Familie besucht | Du werde deine Familie besuchen |
+| Er besucht seine Familie  | Er besuchte seine Familie | Er hat seine Familie besucht | Er- werde seine Familie besuchen |
+| Wir besuchen unsere Familie| Wir besuchten unsere Familie | Wir haben unsere Familie besucht | Wir werde unsere Familie besuchen |
+| Ihr besucht eure Familie | Ihr besuchtet eure Familie | Ihr habt eure Familie besucht | Ihr werde eure Familie besuchen |
+| sie/Sie besuchen ihre Familie | sie/Sie besuchen ihre Familie | sie/Sie haben ihre Familie besucht | sie/Sie werde ihre Familie besuchen |

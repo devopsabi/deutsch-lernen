@@ -140,4 +140,43 @@ Sie     wird    nächstes Jahr    nach Deutschland    fahren.
 ```
 
 
+-----------------------------------------------------------------------------------------------
 
+
+|Präsens  |  Präteritum |
+| :----- |:------|
+| antworte | antwortete |
+| arbeite | arbeitete |
+| beginne | begann |
+| besuche | besuchte |
+| bleibe |  blieb |
+| bringe | brachte |
+| denke | dachte |
+| esse | aß |
+| fahre | fuhr |
+| finde | fand |
+| frage | fragte |
+| gebe | gab |
+| gehe | ging |
+| habe | hatte |
+| heiße | hieß |
+| helfe | half |
+| höre | hörte |
+| kaufe | kaufte |
+| komme | kam |
+| laufe | lief |
+| lebe | lebte |
+| lerne | lernte |
+| mache | machte |
+| nehme | nahm |
+| sage | sagte |
+| schlafe | schlief |
+| schließe | schloss |
+| sehe | sah |
+| spiele | spielte |
+| spreche | sprach |
+| trinke | trank |
+| versuche | versuchte |
+| warte | wartete |
+| wohne | wohnte |
+| öffne | öffnete |

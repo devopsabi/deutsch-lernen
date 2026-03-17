@@ -143,40 +143,40 @@ Sie     wird    nächstes Jahr    nach Deutschland    fahren.
 -----------------------------------------------------------------------------------------------
 
 
-|Präsens  |  Präteritum |
-| :----- |:------|
-| antworte | antwortete |
-| arbeite | arbeitete |
-| beginne | begann |
-| besuche | besuchte |
-| bleibe |  blieb |
-| bringe | brachte |
-| denke | dachte |
-| esse | aß |
-| fahre | fuhr |
-| finde | fand |
-| frage | fragte |
-| gebe | gab |
-| gehe | ging |
-| habe | hatte |
-| heiße | hieß |
-| helfe | half |
-| höre | hörte |
-| kaufe | kaufte |
-| komme | kam |
-| laufe | lief |
-| lebe | lebte |
-| lerne | lernte |
-| mache | machte |
-| nehme | nahm |
-| sage | sagte |
-| schlafe | schlief |
-| schließe | schloss |
-| sehe | sah |
-| spiele | spielte |
-| spreche | sprach |
-| trinke | trank |
-| versuche | versuchte |
-| warte | wartete |
-| wohne | wohnte |
-| öffne | öffnete |
+|Präsens  |  Präteritum | Perfekt |
+| :----- | :------ | :----- |
+| antworte | antwortete | geantwortet |
+| arbeite | arbeitete | gearbeitet  |
+| beginne | begann | begonnen |
+| besuche | besuchte | besucht |
+| bleibe |  blieb | geblieben |
+| bringe | brachte | grbracht |
+| denke | dachte | gedacht |
+| esse | aß | gessen |
+| fahre | fuhr | gefahren |
+| finde | fand | gefunden |
+| frage | fragte | gefragt |
+| gebe | gab | gegeben |
+| gehe | ging | gegangen |
+| habe | hatte | gehabt |
+| heiße | hieß | geheißen |
+| helfe | half | geholfen |
+| höre | hörte | gehört |
+| kaufe | kaufte | gekauft |
+| komme | kam | gekommen |
+| laufe | lief | gelaufen |
+| lebe | lebte | gelebt |
+| lerne | lernte | gelernt |
+| mache | machte | gemacht |
+| nehme | nahm | genommen |
+| sage | sagte | gesagt |
+| schlafe | schlief | geschlafen |
+| schließe | schloss | geschlossen |
+| sehe | sah | gesehen |
+| spiele | spielte | gespeilt |
+| spreche | sprach | gesprochen |   
+| trinke | trank | getrunken |
+| versuche | versuchte | versucht |
+| warte | wartete | gewartet
+| wohne | wohnte | gewohnt |
+| öffne | öffnete | geöffnet |

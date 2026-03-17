@@ -14,4 +14,5 @@ title = 'Links'
 **Watch**
 
 1. [Haupsatz & Nebensatz](https://www.youtube.com/watch?v=ixvgSNalFBg)
-2.[Conjunctions](https://www.youtube.com/watch?v=ATnUjMoNXhE)
+2. [Conjunctions](https://www.youtube.com/watch?v=ATnUjMoNXhE)
+3. [German Verbs](https://www.youtube.com/watch?v=de1riTGsT3k)

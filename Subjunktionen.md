@@ -90,13 +90,24 @@ Weil es dort billig ist   ,      kaufe ich Gemüse im supermarkt.
 
 [A1 German Conjunctions | Hauptsatz & Nebensatz](https://www.youtube.com/watch?v=ixvgSNalFBg&t=24s)
 
+
+| Konjunktion | Type | Position | Kommaregeln/comma rules |
+| :----- | :----- | :----- | :----- |
+| und | HS | 0 | Nein |
+| ODER | HS | 0 | Nein |
+| aber | HS | 0 | Ja |
+| denn | HS | 0 | Ja |
+| weil | NS | 1 | Ja |
+| dass | NS | 1 | Ja |
+
+
 1. Hauptsatz vs Nebensatz
 2. Konjunktion UND
 3. Konjunktion ODER
 4. Konjunktion ABER
 5. Konjunktion DENN
-6. Konjunktion WEIL (komma)
-7. Konjunktion DASS (komma)
+6. Konjunktion WEIL
+7. Konjunktion DASS
 
 
 Satzarten [Sentence types]
@@ -167,3 +178,193 @@ Ich trinke gern Kaffee, Tee und Cola.
 
 ```
 
+---------------------------------------------
+
+
+3. Konjunktion ODER
+
+Position 0 Konjunktion
+
+
+| Hauptsatz 1 | Konjunktion | Hauptsatz 2 |
+| :-------  | :------ | :------ |
+| Am Morgen trinke ich einen kaffee | oder | mache einen Tee.|
+
+
+```goat
+
+Am Morgen trinke ich einen Kaffee oder mache einen Tee.
+
+
+
+                                          We drop the second subject (same subject)
+                                          The verb is still in 2nd Position
+                                                    | 
+                                                    |
+                                                    |
+    [Position]                          [0]        [1]           [2]
+Am Morgen trinke ich einen Kaffee       oder       ich        mache einen Tee.
+---------------------------------                           ------------------
+    [Hauptsatz 1]                   [ Konjunktion ]             [Hauptsatz 2]
+
+
+
+                
+Am Montag spielt Max Tennis oder triffte seine Freunde.
+--------------------------       --------------------- 
+    [Hauptsatz 1]            [0]        [Hauptsatz 2]
+
+
+
+
+```
+
+---------------------------------------------
+
+4. Konjunktion ABER
+
+Position 0 Konjunktion
+
+| Hauptsatz 1 | Konjunktion | Hauptsatz 2 |
+| :-------  | :------ | :------ |
+| Am Morgen trinke ich einen Kaffee, | aber | esse kein Frühstück |
+
+
+```goat
+
+    [Position] -----------------> [0] 
+Am Morgen trinke ich einen Kaffee aber esse kein Frühstüch 
+---------------------------------      --------------------
+    [Hauptsatz 1]                           [Hauptsatz 2]
+
+
+Am Morgen trinke ich Kaffee, aber keinen Tee
+
+
+Elsa möchte ins Kino gehen, aber ihr Mann hat keine Zeit.
+
+```
+
+---------------------------------------------
+
+5. Konjunktion DENN
+
+Position 0 Konjunktion
+
+Ich esse ein Sandwich, denn ich habe Hunger.
+
+| Hauptsatz 1 | Konjunktion | Hauptsatz 2 |
+| :-------  | :------ | :------ |
+| Ich esse ein Sandwitch,| denn | ich habe Hunger |
+
+
+**NOTE:** For DENN the subject is not dropped event it is same (ich) 
+
+```goat
+
+
+    [Position] ------------> [0]      [1]    [2]      xy...    
+Ich esse ein Sandwitch,      denn     ich    habe    Hunger.
+----------------------                ---------------------  
+    [Hauptsatz 1]                       [Hauptsatz 2]
+
+
+    [Position] ----->[0]  [1] [2]  [xy....]
+Maria lernt Deutsch, denn sie lebt in Berlin.
+------------------        ------------------  
+[Hauptsatz 1]                 [Hauptsatz 2]
+
+```
+
+---------------------------------------------
+
+6. Konjunktion WEIL
+
+Position 1 Konjunktion
+
+WEIL is a subordinate clause. [Nebensatz]
+
+**Note** - The habe is the Konjunkted verb at the last postion as it should be for the nebensatz.
+
+| Hauptsatz 1 | Konjunktion | Nebensatz 1 |
+| :-------  | :------ | :------ |
+| Ich esse ein Sandwich, |weil| ich Hunger habe. |
+
+```goat
+
+[Position] ---------------->[1]     [2] [xy...] [last position is the Konjunkted verb]              
+                                                   |         
+Ich esse ein Sandwich,     weil    ich Hunger   habe.
+----------------------              ----------------
+    [Hauptsatz]                         [Nebensatz]
+
+
+Here the postion 1 is the nebensatz and the konjunkted verb is still in second position.
+
+[Position]--> [1]         [2]  
+Weil  ich   Hunger  habe, esse ich ein Sandwich
+-----------------------   -------------------- 
+  [ Nebensatz]               [Hauptsatz]
+
+
+
+Maria lernt Deutsch, weil sie in Berlin lebt.
+
+
+Here you have 2 verbs at the end because we used model verb.
+
+The model verb usually comes with 2 verbs, the other verb with infinitiv should be in front of model verb. 
+
+Tom hat Angst, weil er bald zum Artz gehen muss.
+
+
+[Position]----> [1]     [2]     [xy............]        [Last position]    
+Tom hat Angst,  weil    er     bald zum Artz gehen      muss.
+-------------   ---       ----------------------------------------------        
+[Hauptsatz]     [Konj]            [Nebensatzt]
+
+
+```
+
+
+
+---------------------------------------------
+
+
+7. Konjunktion DASS
+
+Position 1 Konjunktion
+
+DASS is a subordinate clause. [Nebensatz]
+
+| Hauptsatz 1 | Konjunktion | Nebensatz 1 |
+| :-------  | :------ | :------ |
+| Ich hoffe, | dass | die Sonne morgen scheint. |
+
+
+```goat
+
+[Position]----> [1]      [2]        [xy]        [Last Position]
+Ich hoffe,      dass    die Sonne   morgen      scheint.
+---------       ----    ------------------------------- 
+[Hauptsatz]     [Konj]   [Nebensatz]
+
+
+
+                                          +-- The Konjunkted verb should be at the end of the sentence
+                                          |  
+Rudolf hat gesehen, dass Mia auch online ist.
+
+
+Model verb
+The model verb usually comes with 2 verbs, the other verb with infinitiv should be in front of model verb.
+
+                                          [Verb with infinitiv]       [Model verb] 
+Monika glaubt   dass    sie     nicht gut   malen                       kann.
+-------------   ----    --------------------------------------------------------
+[Hauptsatz]     [Konj]      [Nenbensatz]
+
+
+
+
+```

@@ -368,3 +368,213 @@ Monika glaubt   dass    sie     nicht gut   malen                       kann.
 
 
 ```
+
+
+
+----------------------------------------------------------------------------------------------------
+ A2 
+----------------------------------------------------------------------------------------------------
+
+[A2 Conjunctions](https://www.youtube.com/watch?v=ATnUjMoNXhE)
+
+1. Konjunktion DOCH
+2. Konjunktion SONDERN
+3. Konjunktion als
+4. Konjunktion Bevor
+5. Konjunktion BIS
+6. Konjunktion WENN
+7. Konjunktion DA
+8. Konjunktion DAMIT
+9. Konjunktion SEIT/SEITDEM
+10. Konjunktion DANN
+11. Konjunktion DESHALB
+
+--------------------------------------------------------------------------------------
+
+1. **doch** [but]
+
+
+Hauptsatz
+
+Position 0 Konjunktion
+
+Beispeil:
+
+
+| Hauptsatz 1 | Konjunktion | Hauptsatz 2 |
+| :-------  | :------ | :------ |
+| Max hat lange geschlafen, | doch | er | ist | immer noch müde. |
+
+```goat
+
+
+    [Position] ---------------> [0]         [1]  [2]  [xy...]  
+Max hat lange geschlafen,       doch        er   ist  immer noch müde.
+-------------------------                   -----------------------
+    [Hauptsatz 1]                                 [Hauptsatz 2]
+
+```
+
+--------------------------------------------------------------------------------------
+
+2. **sondern** [but]
+
+Hauptsatz Konjunktion
+
+Position 0 Konjunktion
+
+
+| Hauptsatz 1 | Konjunktion | Hauptsatz 2 |
+| :-------  | :------ | :------ |
+| Er isst kein Brot zum Frühstück, | sondern | Müsli mit Milch.|
+
+```goat
+                                          We drop the second subject (same subject)
+                                          The verb is still in 2nd Position
+                                             |
+                                           +----+ 
+                                   Konj.   |    |
+[Position] ---------------->       [0]    [1]  [2]
+Er isst kein Brot zum Frühstück, sondern  er   isst    Müsli mit Milch.
+-------------------------------                         -------------
+    [Hauptsatz 1]                                       [Hauptsatz 2]
+
+
+
+[Position] --------------->          [0]       
+Er isst kein Brot zum Frühstück,    sondern    Müsli mit Milch.
+-------------------------------                -------------
+    [Hauptsatz 1]                               [Hauptsatz 2]
+
+
+
+```
+
+--------------------------------------------------------------------------------------
+
+
+3. **als** [when]
+
+When you talk about the Past you use als.
+
+Nebensatz Konjunktion
+
+Position 1 Konjunktion
+
+| Hauptsatz 1 | Konjunktion | Nebensatz |
+| :-------  | :------ | :------ |
+| Max hat viel Brot gegessen, | als | er ein kind war |
+
+
+
+```goat
+
+[Position] --------------->     [1]      [2]    .......      Satzende.
+Max hat viel Brot gegessen,     als      er     ein Kind     war.
+--------------------------      ---      ------------------------
+    [Hauptsatz]                 Konj.          [Nebensatz]
+```
+
+
+**NOTE**
+
+**als** has another meaning [than]
+
+| Hauptsatz 1 | Konjunktion | Nebensatz |
+| :-------  | :------ | :------ |
+| Er hat heute weniger Hunger,| als | er gedacht hat |
+
+
+```goat
+
+[Position] --------------->     [1]      [2]    .......      Satzende.
+Er hat heute weniger Hunger,    als      er     gedacht       hat
+--------------------------      ---      ------------------------
+    [Hauptsatz]                 konj.           [Nebensatz]
+
+```
+
+
+
+--------------------------------------------------------------------------------------
+
+4. **Bevor** [before]
+
+Nebensatz Konjunktion.
+
+Position 1 Konjunktion
+
+| Hauptsatz 1 | Konjunktion | Nebensatz |
+| :-------  | :------ | :------ |
+| Max macht seine Hauseaufgaben,| bevor | er in die Schule geht. |
+
+```goat
+
+
+Max macht seine Hauseaufgaben,  bevor     er in die Schule      geht.
+-----------------------------   -----     --------------------------
+    [Hauptsatz]                 Konj.           [Nebensatz]
+
+```
+
+--------------------------------------------------------------------------------------
+
+5. **bis** [until]
+
+Nebensatz Konjunktion.
+
+Position 1 Konjunktion.
+
+| Hauptsatz 1 | Konjunktion | Nebensatz |
+| :-------  | :------ | :------ |
+| Auf dem Weg hört er Musik, |  bis | er in der Schule ist. |
+
+
+```goat
+
+[Position] ------------->   [1]     [2]                 [Satzende]
+Auf dem Weg hört er Musik   bis     er   in der Schule   ist.
+-------------------------   ---     -----------------------
+    [Hauptsatz]             Konj.       [Nebensatz]
+```
+
+
+--------------------------------------------------------------------------------------
+
+6. **wenn** [when]
+
+Nebensatz Konjunktion.
+
+Position 1 Konjunktion.
+
+| Hauptsatz 1 | konjunktion | Nebensatz |
+| :--------- | :--------- | :--------- |
+| Er fährt immer mit dem Bus,| wenn | es regnet. |
+
+
+```goat
+
+[Position] ------------->   [1]     [2]   [Satzende]
+Er fährt immer mit dem Bus, wenn    es    regnet. 
+--------------------------  ----    ------------
+    [Hauptsatz]             Konj.   [Nebensatz]
+
+```
+
+--------------------------------------------------------------------------------------
+
+7. **da** [because]
+
+Nebensatz Konjunktion.
+
+| Hauptsatz 1 | konjunktion | Nebensatz |
+| :--------- | :--------- | :--------- |
+| Seine Deutschstunde war gut, | da | er wiederholt hat|
+
+```goat
+[Position] -------------------- [1]     [2]             [Satzende]
+Seine Deutschstunde war gut,    da      er  widerholt   hat
+-------------------------       ---     -------------------
+    [Hauptsatz]                 Konj.       [Nebensatz]
+
+```
